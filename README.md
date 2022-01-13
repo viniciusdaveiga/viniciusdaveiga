@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/viniciusdaveiga/viniciusdaveiga/blob/main/images/illustration.png" width="330"/>
+<img align="right" src="https://github.com/viniciusdaveiga/viniciusdaveiga/blob/main/images/illustration.png" width="315"/>
 
 ## Hi 👋, I'm Vinícius 
 
