@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/viniciusdaveiga/viniciusdaveiga/images/illustration.png" width="300"/>
+<img align="right" src="https://github.com/viniciusdaveiga/viniciusdaveiga/blob/main/images/illustration.png" width="300"/>
 
 ## Hi 👋, I'm Vinícius 
 
@@ -13,8 +13,6 @@
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Communication-%23333" alt="Communication"></a>
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Problem%20Solving-%23333" alt="Problem Solving"></a>
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/-Adaptability-%23333" alt="Adaptability"></a>
-
-<br />
 
 ***
 
@@ -92,8 +90,6 @@
 </details>
 
 ***
-
-<br />
 
 ### 🔗 Contact me:
 <ul>
