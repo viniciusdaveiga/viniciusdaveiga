@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/viniciusdaveiga/viniciusdaveiga/images/illustration.png" width="300"/>
+
 ## Hi 👋, I'm Vinícius 
 
 - 👨🏻‍💻 Mobile and Web Developer (with some Desktop Dev experience too), focused on exploring the capabilities of modern tools
