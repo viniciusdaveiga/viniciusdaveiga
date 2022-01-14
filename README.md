@@ -2,9 +2,9 @@
 
 ## Hi 👋, I'm Vinícius 
 
-- 👨🏻‍💻 Mobile and Web Developer (with some Desktop Dev experience too), focused on exploring the capabilities of modern tools
+- 👨🏻‍💻 Full-stack developer focused on exploring the capabilities of modern tools
 - 📊 Exploring Data Science
-- 📚 Improving my Node.JS skills
+- 📚 Studying and improving my Node.JS skills
 - 🔎 Currently looking for a job opportunity
 - 💬 Ask me about JavaScript, HTML, CSS, SQL, Node.JS or anything I can help with
 - ✔️ Soft Skills: 
